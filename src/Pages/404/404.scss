@@ -1,0 +1,57 @@
+@import "../../../styles/base";
+@import "../../../styles/buttons";
+
+.page_404{
+  padding:40px 0;
+  background:#fff;
+  padding-top: 190px;
+  @include media-breakpoint-tablet() {
+    padding-top: 100px;
+  }
+  .page_404  img {
+    width:100%;
+  }
+
+  .text-center {
+    color: rgb(31, 156, 207);
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .four_zero_four_bg {
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-bottom: -20px;
+    position: relative;
+    h1 {
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+  }
+
+
+  .four_zero_four_bg h1 {
+    font-size:80px;
+  }
+
+  .four_zero_four_bg h3 {
+    font-size:80px;
+  }
+
+  .link_404 {
+    color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+  }
+  .contant_box_404 {
+    margin-top:-50px;
+  }
+}

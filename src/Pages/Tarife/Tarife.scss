@@ -1,0 +1,29 @@
+@import "../../../styles/base";
+@import "../../../styles/buttons";
+
+
+.Tarife {
+  padding-top: 170px;
+  @include media-breakpoint-tablet() {
+    padding-top: 120px;
+  }
+  .rounded-card {
+    width: 100%;
+    max-width: 500px;
+    max-height: 700px;
+    padding: 40px;
+    background-color: white;
+    border-radius: 10px 0 10px 0;
+    box-shadow: 0 1px 7px rgba(0,0,0,0.1);
+    margin: 40px auto;
+
+    @include media-breakpoint-tablet() {
+      width: 80%;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+}

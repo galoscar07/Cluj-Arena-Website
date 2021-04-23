@@ -1,0 +1,147 @@
+@import "../../../styles/base";
+
+
+.Header {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  z-index: 1000;
+  background-color: white;
+  width: 100%;
+  transition: display 1s;
+  top: 0;
+
+  &.minimize {
+    flex-direction: row;
+  }
+
+  .first-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: $margin-default;
+
+    @include media-breakpoint-tablet() {
+      justify-content: space-between;
+      width: 100%;
+    }
+
+    .logo-arena {
+
+    }
+  }
+
+  .navbar-hamburger {
+    @include media-breakpoint-tablet() {
+      top: 110px;
+      position: absolute;
+      background-color: white;
+      width: 100%;
+    }
+    div {
+      cursor: pointer;
+      padding: $margin-small;
+      border-radius: 4px;
+      transition: color 0.2s, background-color 0.3s;
+
+      a {
+        text-decoration: none;
+        color: black;
+        &:hover {
+          color: $color-text-hover;
+          background-color: darken(white, 2%);
+        }
+      }
+
+      &:hover {
+        color: $color-text-hover;
+        background-color: darken(white, 2%);
+      }
+    }
+
+    .dropdown {
+      position: relative;
+
+      .dropdown-list {
+        position: absolute;
+        color: black;
+        background-color: white;
+        border-radius: 5px;
+        width: 200px;
+        top: 48px;
+        left: 0;
+        @include media-breakpoint-tablet() {
+          width: 300px;
+        }
+      }
+    }
+
+  }
+
+  .second-row {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0 $margin-big;
+    font-size: $font-size-xnormal;
+    font-weight: $font-weight-bold;
+    margin-bottom: $margin-xsmall;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+
+    @include media-breakpoint-tablet() {
+      display: none;
+    }
+
+    div {
+      cursor: pointer;
+      padding: $margin-small;
+      border-radius: 4px;
+      transition: color 0.2s, background-color 0.3s;
+
+      a {
+        text-decoration: none;
+        color: black;
+        &:hover {
+          color: $color-text-hover;
+          background-color: darken(white, 2%);
+        }
+      }
+
+      &:hover {
+        color: $color-text-hover;
+        background-color: darken(white, 2%);
+      }
+    }
+
+    .dropdown {
+      position: relative;
+
+      .dropdown-list {
+        position: absolute;
+        color: black;
+        background-color: white;
+        border-radius: 5px;
+        width: 200px;
+        top: 48px;
+        left: 40px;
+      }
+    }
+  }
+
+}
+
+.logo-menu {
+  display: none;
+  cursor: pointer;
+  @include media-breakpoint-tablet() {
+    display: block;
+  }
+}
+
+.overlay {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0,0,0,0.4);
+  position: fixed;
+  z-index: 999;
+}

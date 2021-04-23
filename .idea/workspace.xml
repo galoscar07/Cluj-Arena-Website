@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f6e39a5-3752-4d8a-8482-86df55c75a98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/SpinnerLoader/SpinnerLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SpinnerLoader/SpinnerLoader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Parcare.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Servicii/servicii1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Servicii/servicii2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Servicii/servicii3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Servicii/servicii4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Stiri/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Stiri/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Stiri/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Stiri/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Tarife.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/parcare.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/sectorizare.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/404/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/404/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Istoric/Istoric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Istoric/Istoric.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/ObiectiveTuristice/ObiectiveTuristice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/ObiectiveTuristice/ObiectiveTuristice.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Orar/Orar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Orar/Orar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Parcare/Parcare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Parcare/Parcare.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Sectorizare/Sectorizare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Sectorizare/Sectorizare.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Servicii/Servicii.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Servicii/Servicii.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Stiri/Stiri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Stiri/Stiri.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Tarife/Tarife.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Tarife/Tarife.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vid1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vid2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vid3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Shop/shop1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Shop/shop2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Shop/shop3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/Shop/shop4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/logo-arena.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/logo-arena.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/ConferinteSiEvenimente/ConferinteSiEvenimente.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/ConferinteSiEvenimente/ConferinteSiEvenimente.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Contact/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Contact/Contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Contact/Contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/GalerieFotoVideo/GalerieFotoVideo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/GalerieFotoVideo/GalerieFotoVideo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/GalerieFotoVideo/GalerieFotoVideo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/GalerieFotoVideo/GalerieFotoVideo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Homepage/Homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Homepage/Homepage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Homepage/Homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Homepage/Homepage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/SalaConferinte/SalaConferinte.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/SalaConferinte/SalaConferinte.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/SalaMultifunctionala/SalaMultifunctionala.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/SalaMultifunctionala/SalaMultifunctionala.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/SalaVip/SalaVip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/SalaVip/SalaVip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/ShopSiRestaurant/ShopSiRestaurant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/ShopSiRestaurant/ShopSiRestaurant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/ShopSiRestaurant/ShopSiRestaurant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/ShopSiRestaurant/ShopSiRestaurant.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/SportSiRecuperare/SportSiRecuperare.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/SportSiRecuperare/SportSiRecuperare.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qmWc3vP9MEyWPTtM8vRC4S7gZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Pages/Orar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Pages/Orar" />
+      <recent name="$PROJECT_DIR$/src/Pages/Parcare" />
+      <recent name="$PROJECT_DIR$/src/Pages/Servicii" />
+      <recent name="$PROJECT_DIR$/src/Pages" />
+      <recent name="$PROJECT_DIR$/styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/Images/ConferinteSiEvenimente" />
+      <recent name="$PROJECT_DIR$/src/Images" />
+      <recent name="$PROJECT_DIR$/src/Pages/Homepage" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f6e39a5-3752-4d8a-8482-86df55c75a98" name="Default Changelist" comment="" />
+      <created>1617685323837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617685323837</updated>
+      <workItem from="1617685329263" duration="7155000" />
+      <workItem from="1617730394898" duration="123000" />
+      <workItem from="1617858386303" duration="17064000" />
+      <workItem from="1617987598556" duration="5627000" />
+      <workItem from="1618244612738" duration="63000" />
+      <workItem from="1618375286799" duration="4239000" />
+      <workItem from="1618432015557" duration="28000" />
+      <workItem from="1618472609489" duration="3524000" />
+      <workItem from="1618810214588" duration="2723000" />
+      <workItem from="1618896576450" duration="2280000" />
+      <workItem from="1618980119618" duration="5971000" />
+      <workItem from="1619156498453" duration="6809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

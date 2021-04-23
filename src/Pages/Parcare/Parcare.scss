@@ -1,0 +1,40 @@
+@import "../../../styles/base";
+
+.Parcare {
+  padding-top: 170px;
+  @include media-breakpoint-tablet() {
+    padding-top: 120px;
+  }
+  h1 {
+    padding: 40px;
+    color: rgb(31, 156, 207);
+    text-align: center;
+  }
+  .rounded-card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+    hr:nth-of-type(2) {
+      margin-bottom: 20px;
+    }
+    .rounded-card {
+      background-color: #eee;
+      border-radius: 10px 0 10px 0;
+      box-shadow: 0 5px 7px rgba(0,0,0,0.1);
+      padding: 40px;
+      @include media-breakpoint-tablet() {
+        margin-bottom: 30px;
+      }
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.react-parallax-content {
+  height: 600px
+}

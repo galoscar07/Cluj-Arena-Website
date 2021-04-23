@@ -1,0 +1,14 @@
+@import "../../../styles/base";
+
+
+.Istoric {
+  padding-top: 170px;
+  @include media-breakpoint-tablet() {
+    padding-top: 120px;
+  }
+}
+
+.vertical-timeline-element-date {
+  color: black;
+  font-size: 20px !important;
+}

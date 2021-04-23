@@ -1,0 +1,22 @@
+@import "../../../styles/base";
+
+.Orar {
+  padding-top: 170px;
+  @include media-breakpoint-tablet() {
+    padding-top: 120px;
+  }
+  h1 {
+    padding: 40px;
+    color: rgb(31, 156, 207);
+    text-align: center;
+  }
+  .container {
+    max-width: 500px;
+    padding: 40px;
+    margin: auto;
+    p {
+      text-align: center;
+    }
+  }
+}
+

@@ -1,0 +1,73 @@
+@import "../../../styles/base";
+@import "../../../styles/buttons";
+
+.Contact {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 180px;
+  @include media-breakpoint-tablet() {
+    flex-direction: column;
+    padding-top: 110px;
+  }
+
+  iframe {
+    width: 50%;
+    @include media-breakpoint-tablet() {
+      order: 2;
+      width: 100%;
+      padding: 40px;
+      border: none;
+    }
+  }
+  input {
+    width: 250px;
+  }
+  .contact {
+    padding-left: 40px;
+    width: calc(50%);
+    @include media-breakpoint-tablet() {
+      width: 100%;
+      padding: 20px;
+    }
+    .contact-info {
+      .subtext {
+        padding: 10px;
+        a {
+          text-decoration: none;
+          color: black;
+          margin-left: 10px;
+        }
+      }
+    }
+    .input-same-line {
+      justify-content: space-around;
+      #nume {
+        width: 60%;
+      }
+      #email {
+        width: 60%;
+      }
+      &:first-child {
+        margin-right: 1000px;
+      }
+    }
+    .button-container {
+      margin-top: 20px;
+      width: 100%;
+      div {
+        width: 80%;
+        margin:auto;
+      }
+      @include media-breakpoint-tablet() {
+        width: 100%;
+      }
+    }
+  }
+}
+
+#textarea {
+  @include media-breakpoint-tablet() {
+    width: 100% !important;
+  }
+}

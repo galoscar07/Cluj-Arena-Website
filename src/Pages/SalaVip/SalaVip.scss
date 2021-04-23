@@ -1,0 +1,18 @@
+@import "../../../styles/base";
+
+.SalaVip {
+  padding-top: 170px;
+  @include media-breakpoint-tablet() {
+    padding-top: 120px;
+  }
+  .paragraphs {
+    margin: 50px 0;
+    padding: 40px;
+    color:rgb(31, 156, 207);
+    font-weight: bolder;
+  }
+}
+
+#root > div.SalaVip > div.CarouselContainer > div > div:nth-child(2) > div {
+  display: none;
+}
